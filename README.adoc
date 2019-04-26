@@ -1,0 +1,11 @@
+# Karaf feature ANTLR
+
+Externsion to karaf which adds ANTLR all major version to karaf features.
+
+
+## Features:
+
+- antlr2 2.7
+- antlr3 3.4
+- antlr4 4.5.1
+- stringtemplate3 3.2
